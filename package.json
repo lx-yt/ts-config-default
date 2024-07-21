@@ -1,0 +1,28 @@
+{
+  "name": "@lx-yt/ts-config-default",
+  "version": "0.0.6",
+  "description": "A default config for typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lx-yt/ts-config-default.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "config",
+    "default"
+  ],
+  "author": "Lexyth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lx-yt/ts-config-default/issues"
+  },
+  "homepage": "https://github.com/lx-yt/ts-config-default#readme",
+  "devDependencies": {
+    "typescript": ">=5.4.5"
+  }
+}
