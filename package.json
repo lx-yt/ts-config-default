@@ -22,7 +22,7 @@
     "url": "https://github.com/lx-yt/ts-config-default/issues"
   },
   "homepage": "https://github.com/lx-yt/ts-config-default#readme",
-  "devDependencies": {
+  "peerDependencies": {
     "typescript": ">=5.4.5"
   }
 }
